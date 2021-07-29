@@ -1,0 +1,60 @@
+.top{
+    background-color: grey;
+}
+@media(min-width:1000px){
+    #image img{
+        height: 500px;
+    }
+}
+.top h3{
+    font-family: algerian;
+    color: black;
+}
+.nut{
+  
+    background-color: grey;
+}
+.nut a{
+    background-color: grey;
+    padding: 10px 10px;
+    color: white;
+    font-family: elephant;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px;
+  margin:0 1px;
+    text-align: center;
+}
+.nut a:hover{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+.foot{
+    background-color: grey;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+h3{
+    font-family: elephant;
+    color: black;
+}
+nav a{
+    background-color: grey;
+    color: white;
+    font-family: elephant;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px black;
+    margin: 5px 0;
+}
+nav a:hover{
+    background-color: white;
+    color: black;
+}
+.dropdown a{
+    background-color: grey;
+    color: white;
+}
